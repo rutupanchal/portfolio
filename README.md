@@ -1,11 +1,9 @@
 # Portfolio
 
 ## Theme Credit
-
-[Sleek - Jekyll Theme](https://github.com/janczizikow/sleek){target="_blank"}
+<a href="https://github.com/janczizikow/sleek" target="_blank">Sleek - Jekyll Theme</a>
 
 ## Development
 
 ### Website under construction
-
-[Portfolio Link](https://rutupanchal.github.io/portfolio/){target="_blank"}
+[Portfolio Link](https://rutupanchal.github.io/portfolio/)
