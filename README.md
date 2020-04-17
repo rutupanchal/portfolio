@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Theme Credit
-<a href="https://github.com/janczizikow/sleek" target="_blank">Sleek - Jekyll Theme</a>
+[Sleek - Jekyll Theme](https://github.com/janczizikow/sleek)
 
 ## Development
 
