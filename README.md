@@ -2,10 +2,10 @@
 
 ## Theme Credit
 
-[Sleek - Jekyll Theme](https://github.com/janczizikow/sleek)
+[Sleek - Jekyll Theme](https://github.com/janczizikow/sleek){target="_blank"}
 
 ## Development
 
 ### Website under construction
 
-[Link](https://rutupanchal.github.io/hello/) 
+[Portfolio Link](https://rutupanchal.github.io/portfolio/){target="_blank"}
