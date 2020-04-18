@@ -3,7 +3,7 @@ title: Rutu Panchal # your site title
 author: Rutu Panchal # You :P
 description: > # Meta description of Homepage
   Rutu Panchal
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "https://rutupanchal.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
@@ -13,7 +13,7 @@ social:
   #  - https://twitter.com/BenBalter
   #  - https://www.facebook.com/ben.balter
     - https://in.linkedin.com/in/rutu-panchal
-    - https://www.instagram.com/chitra_yatra/
+    - https://www.instagram.com/chitra_yatra
     - https://www.behance.net/rutup
   #  - https://github.com/benbalter
 
@@ -36,7 +36,7 @@ email: rutu.panchal@gmail.com # email for form submission
 instagram_username: chitra_yatra # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
-  shortname: # to enable comments replace with your_disqus_shortname
+  shortname: rutup # to enable comments replace with your_disqus_shortname
 
 # google_tag_manager: GTM-XXXXXXX # Uncomment to enable GTM. Replace GTM-XXXXXXX with your GTM container ID
 
