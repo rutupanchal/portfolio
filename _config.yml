@@ -3,7 +3,7 @@ title: Rutu Panchal # your site title
 author: Rutu Panchal # You :P
 description: > # Meta description of Homepage
   Rutu Panchal
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://rutu.design" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
