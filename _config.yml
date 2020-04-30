@@ -4,7 +4,7 @@ author: Rutu Panchal # You :P
 description: > # Meta description of Homepage
   Rutu Panchal
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://rutupanchal.github.io/portfolio" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://rutu.design" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
